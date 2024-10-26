@@ -55,3 +55,4 @@ with open("attendance.csv", mode="w", newline="") as file:
 print("Scanned Faces:", scanned_faces)
 vc.release()
 cv2.destroyAllWindows()
+#hehehe
